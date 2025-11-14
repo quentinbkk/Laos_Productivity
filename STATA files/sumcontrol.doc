@@ -1,0 +1,171 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{
+{\b\qc\line Descriptive Statistics }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2400\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx4600\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx7400\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8800
+\ql { {Variable}}\cell
+\qr { {Obs}}\cell
+\qr { {Mean}}\cell
+\qr { {Std. Dev.}}\cell
+\qr { {Min}}\cell
+\qr { {Max}}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx2400\cellx3200\cellx4600\cellx6000\cellx7400\cellx8800
+\ql { {tfp resid}}\cell
+\qr {{560}}\cell
+\qr {{21.132}}\cell
+\qr {{1.917}}\cell
+\qr {{16.867}}\cell
+\qr {{28.631}}\cell
+\row
+\ql { {foreign ownership}}\cell
+\qr {{560}}\cell
+\qr {{.159}}\cell
+\qr {{.366}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {foreign pct}}\cell
+\qr {{559}}\cell
+\qr {{13.36}}\cell
+\qr {{32.288}}\cell
+\qr {{0}}\cell
+\qr {{100}}\cell
+\row
+\ql { {firm size}}\cell
+\qr {{560}}\cell
+\qr {{76.798}}\cell
+\qr {{184.353}}\cell
+\qr {{0}}\cell
+\qr {{1400}}\cell
+\row
+\ql { {firm age}}\cell
+\qr {{555}}\cell
+\qr {{14.432}}\cell
+\qr {{10.337}}\cell
+\qr {{2}}\cell
+\qr {{130}}\cell
+\row
+\ql { {owner pct}}\cell
+\qr {{254}}\cell
+\qr {{92.516}}\cell
+\qr {{18.765}}\cell
+\qr {{-9}}\cell
+\qr {{100}}\cell
+\row
+\ql { {manager exp}}\cell
+\qr {{560}}\cell
+\qr {{12.946}}\cell
+\qr {{12.04}}\cell
+\qr {{-9}}\cell
+\qr {{58}}\cell
+\row
+\ql { {location size}}\cell
+\qr {{560}}\cell
+\qr {{2.604}}\cell
+\qr {{1.27}}\cell
+\qr {{1}}\cell
+\qr {{5}}\cell
+\row
+\ql { {industry}}\cell
+\qr {{533}}\cell
+\qr {{1.709}}\cell
+\qr {{.816}}\cell
+\qr {{1}}\cell
+\qr {{3}}\cell
+\row
+\ql { {creditline}}\cell
+\qr {{560}}\cell
+\qr {{1.686}}\cell
+\qr {{1.002}}\cell
+\qr {{-9}}\cell
+\qr {{2}}\cell
+\row
+\ql { {certqual}}\cell
+\qr {{560}}\cell
+\qr {{1.509}}\cell
+\qr {{1.824}}\cell
+\qr {{-9}}\cell
+\qr {{2}}\cell
+\row
+\ql { {elecobst}}\cell
+\qr {{560}}\cell
+\qr {{1.35}}\cell
+\qr {{1.433}}\cell
+\qr {{-9}}\cell
+\qr {{4}}\cell
+\row
+\ql { {mainprod pct}}\cell
+\qr {{560}}\cell
+\qr {{93.914}}\cell
+\qr {{16.237}}\cell
+\qr {{-9}}\cell
+\qr {{100}}\cell
+\row
+\ql { {courtsyst}}\cell
+\qr {{560}}\cell
+\qr {{-1.595}}\cell
+\qr {{5.448}}\cell
+\qr {{-9}}\cell
+\qr {{4}}\cell
+\row
+\ql { {finance access}}\cell
+\qr {{559}}\cell
+\qr {{1.197}}\cell
+\qr {{1.618}}\cell
+\qr {{-9}}\cell
+\qr {{4}}\cell
+\row
+\ql { {\b year}}\cell
+\qr {{.}}\cell
+\qr {{.}}\cell
+\qr {{.}}\cell
+\qr {{.}}\cell
+\qr {{.}}\cell
+\row
+\ql { {2009}}\cell
+\qr {{560}}\cell
+\qr {{.586}}\cell
+\qr {{.493}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {2012}}\cell
+\qr {{560}}\cell
+\qr {{.08}}\cell
+\qr {{.272}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {2016}}\cell
+\qr {{560}}\cell
+\qr {{.195}}\cell
+\qr {{.396}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {2018}}\cell
+\qr {{560}}\cell
+\qr {{.139}}\cell
+\qr {{.347}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {industry}}\cell
+\qr {{533}}\cell
+\qr {{1.709}}\cell
+\qr {{.816}}\cell
+\qr {{1}}\cell
+\qr {{3}}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx8800{}\cell
+\row}
+
+
+\writepositionforappend
+}}
