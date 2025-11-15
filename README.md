@@ -30,5 +30,5 @@ This project investigates whether foreign-owned firms in Laos exhibit higher pro
 3. Run the main script to reproduce the baseline and extended results.  
 4. Generated graphs will populate the `/graphs/` folder.
 
-## 📄 Citation  
+## Citation  
 If referencing this work, please cite the dissertation PDF included in the repository.
